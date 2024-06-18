@@ -1,4 +1,4 @@
-## Following is a demo of this small project.
+## Quick Demo.
 
 
 https://github.com/Haresh-729/springServer/assets/108918863/1b6a727b-0066-4754-8c10-60dfb55b7309
